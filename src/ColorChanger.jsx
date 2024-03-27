@@ -6,7 +6,7 @@ function ColorChanger() {
     <>
       <div
         className="w-full h-screen duration-200"
-        style={{ backgroundColor: color }}
+        style={{ backgroundColor: color }} //bydefault color
       >
         <div className="fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2">
           <div className="fixed flex flex-wrap justify-center gap-3 shadow-lg bg-white px-3 py-2 rounded-2xl">

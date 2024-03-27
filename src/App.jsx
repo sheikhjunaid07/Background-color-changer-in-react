@@ -1,9 +1,11 @@
 import ColorChanger from "./ColorChanger";
 
 function App() {
-  return <>
-    <ColorChanger />
-  </>;
+  return (
+    <>
+      <ColorChanger />
+    </>
+  );
 }
 
 export default App;
